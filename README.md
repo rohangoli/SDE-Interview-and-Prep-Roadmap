@@ -34,27 +34,27 @@ Progress bars and counts are generated from checklist states when you commit cha
 
 <summary><strong>View topics and checklist</strong></summary>
 
-- [x] **Agent Fundamentals and Decision-Making** **`P1`**
+- [ ] **Agent Fundamentals and Decision-Making** **`P1`**
 
-  - [x] [Agent autonomy levels and choosing the minimum sufficient autonomy](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Agent autonomy levels and choosing the minimum sufficient autonomy.md>) **`P1`**
+  - [ ] [Agent autonomy levels and choosing the minimum sufficient autonomy](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Agent autonomy levels and choosing the minimum sufficient autonomy.md>) **`P1`**
 
-  - [x] [Core agent loop: observe, decide, act, inspect results, and stop](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Core agent loop: observe, decide, act, inspect results and stop.md>) **`P0`**
+  - [ ] [Core agent loop: observe, decide, act, inspect results, and stop](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Core agent loop: observe, decide, act, inspect results and stop.md>) **`P0`**
 
-  - [x] [Deterministic workflow nodes vs. model-selected actions](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Deterministic workflow nodes vs. model-selected actions.md>) **`P1`**
+  - [ ] [Deterministic workflow nodes vs. model-selected actions](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Deterministic workflow nodes vs. model-selected actions.md>) **`P1`**
 
-  - [x] [Human-in-the-loop reviews, approvals, and escalation](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Human-in-the-loop reviews, approvals and escalation.md>) **`P0`**
+  - [ ] [Human-in-the-loop reviews, approvals, and escalation](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Human-in-the-loop reviews, approvals and escalation.md>) **`P0`**
 
-  - [x] [LLM workflows vs. autonomous agents: when each is appropriate](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/LLM workflows vs. autonomous agents: when each is appropriate.md>) **`P0`**
+  - [ ] [LLM workflows vs. autonomous agents: when each is appropriate](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/LLM workflows vs. autonomous agents: when each is appropriate.md>) **`P0`**
 
-  - [x] [Planning: task breakdown, dependency graphs, and replanning](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Planning: task breakdown, dependency graphs and replanning.md>) **`P0`**
+  - [ ] [Planning: task breakdown, dependency graphs, and replanning](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Planning: task breakdown, dependency graphs and replanning.md>) **`P0`**
 
-  - [x] [Reasoning-and-acting patterns (e.g., ReAct) and tool-use loops](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Reasoning-and-acting patterns (e.g., ReAct) and tool-use loops.md>) **`P0`**
+  - [ ] [Reasoning-and-acting patterns (e.g., ReAct) and tool-use loops](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Reasoning-and-acting patterns (e.g., ReAct) and tool-use loops.md>) **`P0`**
 
-  - [x] [Reflection, critique, self-correction, and their limitations](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Reflection, critique, self-correction, and their limitations.md>) **`P1`**
+  - [ ] [Reflection, critique, self-correction, and their limitations](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Reflection, critique, self-correction, and their limitations.md>) **`P1`**
 
-  - [x] [Short-term context vs. persistent long-term memory](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Short-term context vs. persistent long-term memory.md>) **`P1`**
+  - [ ] [Short-term context vs. persistent long-term memory](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Short-term context vs. persistent long-term memory.md>) **`P1`**
 
-  - [x] [Stop conditions, turn budgets, iteration limits, and fallback paths](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Stop conditions, turn budgets, iteration limits, and fallback paths.md>) **`P1`**
+  - [ ] [Stop conditions, turn budgets, iteration limits, and fallback paths](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Stop conditions, turn budgets, iteration limits, and fallback paths.md>) **`P1`**
 
 - [ ] **Agentic Frameworks and Orchestration** **`P1`**
 
